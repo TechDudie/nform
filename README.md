@@ -9,4 +9,4 @@ to import it. Finally, put
 
 and it will return a string with the number in word form. Any help and issues are appreciated.
 
-#NOTE: ONLY SUPPORTS NUMBERS FROM 0-999. ANY OTHER NUMBERS MAY RETURN A UNWANTED VALUE OR PRODUCE AN ERROR.
+# NOTE: ONLY SUPPORTS NUMBERS FROM 0-999. ANY OTHER NUMBERS MAY RETURN A UNWANTED VALUE OR PRODUCE AN ERROR.
