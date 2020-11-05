@@ -30,7 +30,7 @@ def word_form(num):
         if (num - hundred * 100) == 0:
             return negative + ones[hundred] + "-hundred "
         if (num - hundred - one) / 10 != 0 and one == 0:
-            return ones[hundred] + "-hundred and " + ones[one]
+            return negative + ones[hundred] + "-hundred and " + ones[one]
         if (num - hundred * 100) < 10:
             part += ones[one]
             return negative + ones[hundred] + "-hundred " + part
